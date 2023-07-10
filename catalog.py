@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title("Buy some clothes")
+streamlit.title('Buy some clothes')
