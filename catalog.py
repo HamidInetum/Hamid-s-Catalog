@@ -1,2 +1,4 @@
 import streamlit
-streamlit.title('Buy some clothes')
+import snowflake.connector
+streamlit.title(
+  'Buy some clothes')
